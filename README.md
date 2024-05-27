@@ -1,5 +1,4 @@
-# -Citi-Bike
-Challenge 18: New York Citi Bike Program Analysis
+# New York Citi Bike Data Analysis
 
 Introduction:
 Welcome to the README for the New York Citi Bike Program Analysis project. As the lead analyst for the Citi Bike program, my task was to build a set of data reports to provide insights into the program's utilization. This README provides an overview of the project, including the data processing steps, Tableau visualizations, and deployment methods used.
@@ -33,5 +32,3 @@ The dashboards and the story are accessible via the provided link:
 https://public.tableau.com/views/Challenge18_17150956910420/CItiBikeReport?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 Conclusion:
 This project aims to provide insights into the utilization of the New York Citi Bike program through data analysis and visualization. The generated reports and dashboards offer valuable information for city officials to improve and publicize the program effectively.
-
-Thank you for your interest in the New York Citi Bike Program Analysis project!
